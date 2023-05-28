@@ -1,2 +1,2 @@
-# RepositorioHenry
-La creación de este repositorio corresponde al ejercicio 01 del modulo 2
+# Diego Leiva 
+La creación de este repositorio corresponde al ejercicio 02 del modulo 2
